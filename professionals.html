@@ -97,11 +97,11 @@
 					<% } %>
 					<%= professional.get('locations')[0]['address']['city'] %>, <%= professional.get('locations')[0]['address']['state_code'] %> <%= professional.get('locations')[0]['address']['postal_code'] %>
 				</p>
-				<p class="muted">
-					<% if (professional.get('locations')[0]['contracts']['group_affiliations'] !== undefined) { %>
-						<%= professional.get('locations')[0]['contracts']['group_affiliations']['name'] %>
-					<% } %>
-				</p>
+				// <p class="muted">
+				// 	<% if (professional.get('locations')[0]['contracts']['group_affiliations'] !== undefined) { %>
+				// 		<%= professional.get('locations')[0]['contracts']['group_affiliations']['name'] %>
+				// 	<% } %>
+				// </p>
 				<span class="label label-primary"> <%= professional.get('specializations')[0]['field_specialty']['name'] %> </span>
 				</div>
 			</div>
