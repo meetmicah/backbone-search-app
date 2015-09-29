@@ -1,0 +1,1512 @@
+{
+    "professionals": [
+        {
+            "disclaimers": [],
+            "id": 1000107828,
+            "name": "Andrew P Ortega",
+            "gender": "M",
+            "photos": [],
+            "degrees": [
+                "MD"
+            ],
+            "awards": {},
+            "bdc": {},
+            "identifiers": [
+                {
+                    "type_code": "NPI",
+                    "value": "1225003122"
+                },
+                {
+                    "type_code": "PID",
+                    "value": "587409605"
+                }
+            ],
+            "href": "http://qa.hcsc.vitalschoice.mdx.med/api/professionals/1000107828/profile",
+            "locations": [
+                {
+                    "_meta": {
+                        "distance": 1.5333280258354947
+                    },
+                    "id": 240118874,
+                    "name": "",
+                    "address": {
+                        "addr_line1": "902 Bandera Rd",
+                        "addr_line2": null,
+                        "city": "San Antonio",
+                        "state_code": "TX",
+                        "sub_national": null,
+                        "county": "Bexar",
+                        "country_code": null,
+                        "postal_code": "78228",
+                        "latitude": 29.457395,
+                        "longitude": -98.554006
+                    },
+                    "awards": {},
+                    "bdc": {},
+                    "phones": {
+                        "voice": [
+                            {
+                                "number": "2104314503",
+                                "type": "Voice",
+                                "type_code": "V",
+                                "is_primary": "Y"
+                            }
+                        ]
+                    },
+                    "cost": null,
+                    "tiers": {},
+                    "identifiers": [
+                        {
+                            "type_code": "PFI",
+                            "value": "H08A098801"
+                        }
+                    ],
+                    "contracts": [
+                        {
+                            "id": 240492033,
+                            "awards": {
+                                "bpr": [
+                                    {
+                                        "type_code": "BPR",
+                                        "name": "Blue Physician Recognition",
+                                        "value": null,
+                                        "awd_authority_code": null,
+                                        "recog_type_code": null,
+                                        "institution": null,
+                                        "start_date": null,
+                                        "end_date": null,
+                                        "link": null
+                                    }
+                                ],
+                                "ehr": [
+                                    {
+                                        "type_code": "EHR",
+                                        "name": "Medicare and Medicaid Electronic Health Records (EHR) Incentive Programs",
+                                        "value": null,
+                                        "awd_authority_code": "BCA",
+                                        "recog_type_code": "00",
+                                        "institution": null,
+                                        "start_date": null,
+                                        "end_date": null,
+                                        "link": null
+                                    }
+                                ],
+                                "bcp2|0": [
+                                    {
+                                        "type_code": "BCP2|0",
+                                        "name": "Blue Compare",
+                                        "value": null,
+                                        "awd_authority_code": "HCSC",
+                                        "recog_type_code": null,
+                                        "institution": null,
+                                        "start_date": null,
+                                        "end_date": null,
+                                        "link": null
+                                    }
+                                ],
+                                "abfm": [
+                                    {
+                                        "type_code": "ABFM",
+                                        "name": "American Board of Family Medicine",
+                                        "value": null,
+                                        "awd_authority_code": "BCA",
+                                        "recog_type_code": "00",
+                                        "institution": null,
+                                        "start_date": "2006-07-27",
+                                        "end_date": "2013-12-31",
+                                        "link": null
+                                    }
+                                ]
+                            },
+                            "bdc": {},
+                            "group_affiliations": [
+                                {
+                                    "name": "Gonzaba Medical Group",
+                                    "description": "MGP",
+                                    "information": "0001",
+                                    "facility_id": null,
+                                    "facility_location_id": null
+                                }
+                            ],
+                            "identifiers": [
+                                {
+                                    "type_code": "BCA",
+                                    "value": "400|TXB1|8A098801||01"
+                                }
+                            ],
+                            "tiers": null,
+                            "is_pcp": null
+                        }
+                    ]
+                }
+            ],
+            "specializations": [
+                {
+                    "id": 240131804,
+                    "professional_id": 1000107828,
+                    "is_certified": "N",
+                    "field_specialty": {
+                        "_id": 240000285,
+                        "name": "Family Practice",
+                        "title": null,
+                        "partner_code": "240000019|A1|008|008",
+                        "field": null
+                    }
+                }
+            ],
+            "reviews": {
+                "overall_rating": 0,
+                "percent_recommended": 0,
+                "total_ratings": 0
+            }
+        },
+        {
+            "disclaimers": [],
+            "id": 1000104248,
+            "name": "Gina M Esparza",
+            "gender": "F",
+            "photos": [],
+            "degrees": [
+                "MD"
+            ],
+            "awards": {},
+            "bdc": {},
+            "identifiers": [
+                {
+                    "type_code": "NPI",
+                    "value": "1679506521"
+                },
+                {
+                    "type_code": "PID",
+                    "value": "968549986"
+                }
+            ],
+            "href": "http://qa.hcsc.vitalschoice.mdx.med/api/professionals/1000104248/profile",
+            "locations": [
+                {
+                    "_meta": {
+                        "distance": 1.5333280258354947
+                    },
+                    "id": 240092919,
+                    "name": "",
+                    "address": {
+                        "addr_line1": "902 Bandera Rd",
+                        "addr_line2": null,
+                        "city": "San Antonio",
+                        "state_code": "TX",
+                        "sub_national": null,
+                        "county": "Bexar",
+                        "country_code": null,
+                        "postal_code": "78228",
+                        "latitude": 29.457395,
+                        "longitude": -98.554006
+                    },
+                    "awards": {},
+                    "bdc": {},
+                    "phones": {
+                        "voice": [
+                            {
+                                "number": "2104314503",
+                                "type": "Voice",
+                                "type_code": "V",
+                                "is_primary": "Y"
+                            }
+                        ]
+                    },
+                    "cost": null,
+                    "tiers": {},
+                    "identifiers": [
+                        {
+                            "type_code": "PFI",
+                            "value": "H08A098701"
+                        }
+                    ],
+                    "contracts": [
+                        {
+                            "id": 240385664,
+                            "awards": {
+                                "bpr": [
+                                    {
+                                        "type_code": "BPR",
+                                        "name": "Blue Physician Recognition",
+                                        "value": null,
+                                        "awd_authority_code": null,
+                                        "recog_type_code": null,
+                                        "institution": null,
+                                        "start_date": null,
+                                        "end_date": null,
+                                        "link": null
+                                    }
+                                ],
+                                "ehr": [
+                                    {
+                                        "type_code": "EHR",
+                                        "name": "Medicare and Medicaid Electronic Health Records (EHR) Incentive Programs",
+                                        "value": null,
+                                        "awd_authority_code": "BCA",
+                                        "recog_type_code": "00",
+                                        "institution": null,
+                                        "start_date": null,
+                                        "end_date": null,
+                                        "link": null
+                                    }
+                                ],
+                                "bcp2|0": [
+                                    {
+                                        "type_code": "BCP2|0",
+                                        "name": "Blue Compare",
+                                        "value": null,
+                                        "awd_authority_code": "HCSC",
+                                        "recog_type_code": null,
+                                        "institution": null,
+                                        "start_date": null,
+                                        "end_date": null,
+                                        "link": null
+                                    }
+                                ]
+                            },
+                            "bdc": {},
+                            "group_affiliations": [
+                                {
+                                    "name": "Gonzaba Medical Group",
+                                    "description": "MGP",
+                                    "information": "0001",
+                                    "facility_id": null,
+                                    "facility_location_id": null
+                                }
+                            ],
+                            "identifiers": [
+                                {
+                                    "type_code": "BCA",
+                                    "value": "400|TXB1|8A098701||01"
+                                }
+                            ],
+                            "tiers": null,
+                            "is_pcp": null
+                        }
+                    ]
+                }
+            ],
+            "specializations": [
+                {
+                    "id": 240103102,
+                    "professional_id": 1000104248,
+                    "is_certified": "N",
+                    "field_specialty": {
+                        "_id": 240000285,
+                        "name": "Family Practice",
+                        "title": null,
+                        "partner_code": "240000019|A1|008|008",
+                        "field": null
+                    }
+                }
+            ],
+            "reviews": {
+                "overall_rating": 0,
+                "percent_recommended": 0,
+                "total_ratings": 0
+            }
+        },
+        {
+            "disclaimers": [],
+            "id": 1000045927,
+            "name": "Alejandro Lerma",
+            "gender": "M",
+            "photos": [],
+            "degrees": [
+                "MD"
+            ],
+            "awards": {},
+            "bdc": {},
+            "identifiers": [
+                {
+                    "type_code": "NPI",
+                    "value": "1679892566"
+                },
+                {
+                    "type_code": "PID",
+                    "value": "440395487"
+                }
+            ],
+            "href": "http://qa.hcsc.vitalschoice.mdx.med/api/professionals/1000045927/profile",
+            "locations": [
+                {
+                    "_meta": {
+                        "distance": 1.5333280258354947
+                    },
+                    "id": 240158826,
+                    "name": "",
+                    "address": {
+                        "addr_line1": "902 Bandera Rd",
+                        "addr_line2": null,
+                        "city": "San Antonio",
+                        "state_code": "TX",
+                        "sub_national": null,
+                        "county": "Bexar",
+                        "country_code": null,
+                        "postal_code": "78228",
+                        "latitude": 29.457395,
+                        "longitude": -98.554006
+                    },
+                    "awards": {},
+                    "bdc": {},
+                    "phones": {
+                        "voice": [
+                            {
+                                "number": "2104314503",
+                                "type": "Voice",
+                                "type_code": "V",
+                                "is_primary": "Y"
+                            }
+                        ]
+                    },
+                    "cost": null,
+                    "tiers": {},
+                    "identifiers": [
+                        {
+                            "type_code": "PFI",
+                            "value": "H08DV54801"
+                        }
+                    ],
+                    "contracts": [
+                        {
+                            "id": 240662956,
+                            "awards": {
+                                "bpr": [
+                                    {
+                                        "type_code": "BPR",
+                                        "name": "Blue Physician Recognition",
+                                        "value": null,
+                                        "awd_authority_code": null,
+                                        "recog_type_code": null,
+                                        "institution": null,
+                                        "start_date": null,
+                                        "end_date": null,
+                                        "link": null
+                                    }
+                                ],
+                                "ehr": [
+                                    {
+                                        "type_code": "EHR",
+                                        "name": "Medicare and Medicaid Electronic Health Records (EHR) Incentive Programs",
+                                        "value": null,
+                                        "awd_authority_code": "BCA",
+                                        "recog_type_code": "00",
+                                        "institution": null,
+                                        "start_date": null,
+                                        "end_date": null,
+                                        "link": null
+                                    }
+                                ],
+                                "abfm": [
+                                    {
+                                        "type_code": "ABFM",
+                                        "name": "American Board of Family Medicine",
+                                        "value": null,
+                                        "awd_authority_code": "BCA",
+                                        "recog_type_code": "00",
+                                        "institution": null,
+                                        "start_date": "2013-07-08",
+                                        "end_date": "2023-12-31",
+                                        "link": null
+                                    }
+                                ],
+                                "bcp2|0": [
+                                    {
+                                        "type_code": "BCP2|0",
+                                        "name": "Blue Compare",
+                                        "value": null,
+                                        "awd_authority_code": "HCSC",
+                                        "recog_type_code": null,
+                                        "institution": null,
+                                        "start_date": null,
+                                        "end_date": null,
+                                        "link": null
+                                    }
+                                ]
+                            },
+                            "bdc": {},
+                            "group_affiliations": [
+                                {
+                                    "name": "Gonzaba Medical Group",
+                                    "description": "MGP",
+                                    "information": "0001",
+                                    "facility_id": null,
+                                    "facility_location_id": null
+                                }
+                            ],
+                            "identifiers": [
+                                {
+                                    "type_code": "BCA",
+                                    "value": "400|TXB1|8DV54801||01"
+                                }
+                            ],
+                            "tiers": null,
+                            "is_pcp": null
+                        }
+                    ]
+                }
+            ],
+            "specializations": [
+                {
+                    "id": 240061313,
+                    "professional_id": 1000045927,
+                    "is_certified": "Y",
+                    "field_specialty": {
+                        "_id": 240000285,
+                        "name": "Family Practice",
+                        "title": null,
+                        "partner_code": "240000019|A1|008|008",
+                        "field": null
+                    }
+                }
+            ],
+            "reviews": {
+                "overall_rating": 0,
+                "percent_recommended": 0,
+                "total_ratings": 0
+            }
+        },
+        {
+            "disclaimers": [],
+            "id": 1000098124,
+            "name": "David A Guerrero",
+            "gender": "M",
+            "photos": [],
+            "degrees": [
+                "MD"
+            ],
+            "awards": {},
+            "bdc": {},
+            "identifiers": [
+                {
+                    "type_code": "NPI",
+                    "value": "1265561849"
+                },
+                {
+                    "type_code": "PID",
+                    "value": "043880060"
+                }
+            ],
+            "href": "http://qa.hcsc.vitalschoice.mdx.med/api/professionals/1000098124/profile",
+            "locations": [
+                {
+                    "_meta": {
+                        "distance": 2.0211135835711973
+                    },
+                    "id": 240061818,
+                    "name": "",
+                    "address": {
+                        "addr_line1": "1511 Bandera Rd",
+                        "addr_line2": null,
+                        "city": "San Antonio",
+                        "state_code": "TX",
+                        "sub_national": null,
+                        "county": "Bexar",
+                        "country_code": null,
+                        "postal_code": "78228",
+                        "latitude": 29.467513,
+                        "longitude": -98.568686
+                    },
+                    "awards": {},
+                    "bdc": {},
+                    "phones": {
+                        "voice": [
+                            {
+                                "number": "2104332334",
+                                "type": "Voice",
+                                "type_code": "V",
+                                "is_primary": "Y"
+                            }
+                        ]
+                    },
+                    "cost": null,
+                    "tiers": {},
+                    "identifiers": [
+                        {
+                            "type_code": "PFI",
+                            "value": "H088C56801"
+                        }
+                    ],
+                    "contracts": [
+                        {
+                            "id": 240255852,
+                            "awards": {
+                                "bpr": [
+                                    {
+                                        "type_code": "BPR",
+                                        "name": "Blue Physician Recognition",
+                                        "value": null,
+                                        "awd_authority_code": null,
+                                        "recog_type_code": null,
+                                        "institution": null,
+                                        "start_date": null,
+                                        "end_date": null,
+                                        "link": null
+                                    }
+                                ],
+                                "bcp2|0": [
+                                    {
+                                        "type_code": "BCP2|0",
+                                        "name": "Blue Compare",
+                                        "value": null,
+                                        "awd_authority_code": "HCSC",
+                                        "recog_type_code": null,
+                                        "institution": null,
+                                        "start_date": null,
+                                        "end_date": null,
+                                        "link": null
+                                    }
+                                ]
+                            },
+                            "bdc": {},
+                            "group_affiliations": [
+                                {
+                                    "name": "Holy Cross Family Practice Association",
+                                    "description": "MGP",
+                                    "information": "0001",
+                                    "facility_id": null,
+                                    "facility_location_id": null
+                                }
+                            ],
+                            "identifiers": [
+                                {
+                                    "type_code": "BCA",
+                                    "value": "400|TXB1|88C56801||01"
+                                }
+                            ],
+                            "tiers": null,
+                            "is_pcp": null
+                        }
+                    ]
+                }
+            ],
+            "specializations": [
+                {
+                    "id": 240068459,
+                    "professional_id": 1000098124,
+                    "is_certified": "N",
+                    "field_specialty": {
+                        "_id": 240000285,
+                        "name": "Family Practice",
+                        "title": null,
+                        "partner_code": "240000019|A1|008|008",
+                        "field": null
+                    }
+                }
+            ],
+            "reviews": {
+                "overall_rating": 0,
+                "percent_recommended": 0,
+                "total_ratings": 0
+            }
+        },
+        {
+            "disclaimers": [],
+            "id": 1000090841,
+            "name": "Michael J Dominguez",
+            "gender": "M",
+            "photos": [],
+            "degrees": [
+                "MD"
+            ],
+            "awards": {},
+            "bdc": {},
+            "identifiers": [
+                {
+                    "type_code": "NPI",
+                    "value": "1689674509"
+                },
+                {
+                    "type_code": "PID",
+                    "value": "767981791"
+                }
+            ],
+            "href": "http://qa.hcsc.vitalschoice.mdx.med/api/professionals/1000090841/profile",
+            "locations": [
+                {
+                    "_meta": {
+                        "distance": 2.4503496314151256
+                    },
+                    "id": 240091988,
+                    "name": "",
+                    "address": {
+                        "addr_line1": "590 N General McMullen Dr",
+                        "addr_line2": null,
+                        "city": "San Antonio",
+                        "state_code": "TX",
+                        "sub_national": null,
+                        "county": "Bexar",
+                        "country_code": null,
+                        "postal_code": "78228",
+                        "latitude": 29.440365,
+                        "longitude": -98.552147
+                    },
+                    "awards": {},
+                    "bdc": {},
+                    "phones": {
+                        "voice": [
+                            {
+                                "number": "2102490212",
+                                "type": "Voice",
+                                "type_code": "V",
+                                "is_primary": "Y"
+                            }
+                        ]
+                    },
+                    "cost": null,
+                    "tiers": {},
+                    "identifiers": [
+                        {
+                            "type_code": "PFI",
+                            "value": "H08CF73901"
+                        }
+                    ],
+                    "contracts": [
+                        {
+                            "id": 240381902,
+                            "awards": {
+                                "bpr": [
+                                    {
+                                        "type_code": "BPR",
+                                        "name": "Blue Physician Recognition",
+                                        "value": null,
+                                        "awd_authority_code": null,
+                                        "recog_type_code": null,
+                                        "institution": null,
+                                        "start_date": null,
+                                        "end_date": null,
+                                        "link": null
+                                    }
+                                ],
+                                "abfm": [
+                                    {
+                                        "type_code": "ABFM",
+                                        "name": "American Board of Family Medicine",
+                                        "value": null,
+                                        "awd_authority_code": "BCA",
+                                        "recog_type_code": "00",
+                                        "institution": null,
+                                        "start_date": "2003-07-11",
+                                        "end_date": "2013-12-31",
+                                        "link": null
+                                    }
+                                ],
+                                "ehr": [
+                                    {
+                                        "type_code": "EHR",
+                                        "name": "Medicare and Medicaid Electronic Health Records (EHR) Incentive Programs",
+                                        "value": null,
+                                        "awd_authority_code": "BCA",
+                                        "recog_type_code": "00",
+                                        "institution": null,
+                                        "start_date": null,
+                                        "end_date": null,
+                                        "link": null
+                                    }
+                                ],
+                                "bcp2|0": [
+                                    {
+                                        "type_code": "BCP2|0",
+                                        "name": "Blue Compare",
+                                        "value": null,
+                                        "awd_authority_code": "HCSC",
+                                        "recog_type_code": null,
+                                        "institution": null,
+                                        "start_date": null,
+                                        "end_date": null,
+                                        "link": null
+                                    }
+                                ]
+                            },
+                            "bdc": {},
+                            "group_affiliations": [
+                                {
+                                    "name": "Healthtexas Medical Group Of San",
+                                    "description": "MGP",
+                                    "information": "2382",
+                                    "facility_id": null,
+                                    "facility_location_id": null
+                                }
+                            ],
+                            "identifiers": [
+                                {
+                                    "type_code": "BCA",
+                                    "value": "400|TXB1|8CF73901||01"
+                                }
+                            ],
+                            "tiers": null,
+                            "is_pcp": null
+                        }
+                    ]
+                }
+            ],
+            "specializations": [
+                {
+                    "id": 240102034,
+                    "professional_id": 1000090841,
+                    "is_certified": "N",
+                    "field_specialty": {
+                        "_id": 240000285,
+                        "name": "Family Practice",
+                        "title": null,
+                        "partner_code": "240000019|A1|008|008",
+                        "field": null
+                    }
+                }
+            ],
+            "reviews": {
+                "overall_rating": 0,
+                "percent_recommended": 0,
+                "total_ratings": 0
+            }
+        },
+        {
+            "disclaimers": [],
+            "id": 1000080599,
+            "name": "Gregory Jackson",
+            "gender": "M",
+            "photos": [],
+            "degrees": [
+                "MD"
+            ],
+            "awards": {},
+            "bdc": {},
+            "identifiers": [
+                {
+                    "type_code": "NPI",
+                    "value": "1184738825"
+                },
+                {
+                    "type_code": "PID",
+                    "value": "582552599"
+                }
+            ],
+            "href": "http://qa.hcsc.vitalschoice.mdx.med/api/professionals/1000080599/profile",
+            "locations": [
+                {
+                    "_meta": {
+                        "distance": 2.6567113482296514
+                    },
+                    "id": 240166701,
+                    "name": "",
+                    "address": {
+                        "addr_line1": "4220 McCullough Ave",
+                        "addr_line2": null,
+                        "city": "San Antonio",
+                        "state_code": "TX",
+                        "sub_national": null,
+                        "county": "Bexar",
+                        "country_code": null,
+                        "postal_code": "78212",
+                        "latitude": 29.470147,
+                        "longitude": -98.49159
+                    },
+                    "awards": {},
+                    "bdc": {},
+                    "phones": {
+                        "voice": [
+                            {
+                                "number": "2108290700",
+                                "type": "Voice",
+                                "type_code": "V",
+                                "is_primary": "Y"
+                            }
+                        ]
+                    },
+                    "cost": null,
+                    "tiers": {},
+                    "identifiers": [
+                        {
+                            "type_code": "PFI",
+                            "value": "H08283K001"
+                        }
+                    ],
+                    "contracts": [
+                        {
+                            "id": 240669592,
+                            "awards": {
+                                "bpr": [
+                                    {
+                                        "type_code": "BPR",
+                                        "name": "Blue Physician Recognition",
+                                        "value": null,
+                                        "awd_authority_code": null,
+                                        "recog_type_code": null,
+                                        "institution": null,
+                                        "start_date": null,
+                                        "end_date": null,
+                                        "link": null
+                                    }
+                                ],
+                                "bcp1|0": [
+                                    {
+                                        "type_code": "BCP1|0",
+                                        "name": "Blue Compare",
+                                        "value": null,
+                                        "awd_authority_code": "HCSC",
+                                        "recog_type_code": null,
+                                        "institution": null,
+                                        "start_date": null,
+                                        "end_date": null,
+                                        "link": null
+                                    }
+                                ]
+                            },
+                            "bdc": {},
+                            "group_affiliations": [
+                                {
+                                    "name": "Gregory M Jackson Md",
+                                    "description": "MGP",
+                                    "information": "6377",
+                                    "facility_id": null,
+                                    "facility_location_id": null
+                                }
+                            ],
+                            "identifiers": [
+                                {
+                                    "type_code": "BCA",
+                                    "value": "400|TXB1|8283K001||01"
+                                }
+                            ],
+                            "tiers": null,
+                            "is_pcp": null
+                        }
+                    ]
+                }
+            ],
+            "specializations": [
+                {
+                    "id": 240124705,
+                    "professional_id": 1000080599,
+                    "is_certified": "N",
+                    "field_specialty": {
+                        "_id": 240000285,
+                        "name": "Family Practice",
+                        "title": null,
+                        "partner_code": "240000019|A1|008|008",
+                        "field": null
+                    }
+                }
+            ],
+            "reviews": {
+                "overall_rating": 0,
+                "percent_recommended": 0,
+                "total_ratings": 0
+            }
+        },
+        {
+            "disclaimers": [],
+            "id": 1000104102,
+            "name": "Odville A Rinn",
+            "gender": "M",
+            "photos": [],
+            "degrees": [
+                "MD"
+            ],
+            "awards": {},
+            "bdc": {},
+            "identifiers": [
+                {
+                    "type_code": "NPI",
+                    "value": "1053329920"
+                },
+                {
+                    "type_code": "PID",
+                    "value": "682786701"
+                }
+            ],
+            "href": "http://qa.hcsc.vitalschoice.mdx.med/api/professionals/1000104102/profile",
+            "locations": [
+                {
+                    "_meta": {
+                        "distance": 2.911504909514301
+                    },
+                    "id": 240166559,
+                    "name": "",
+                    "address": {
+                        "addr_line1": "4402 Vance Jackson Rd",
+                        "addr_line2": null,
+                        "city": "San Antonio",
+                        "state_code": "TX",
+                        "sub_national": null,
+                        "county": "Bexar",
+                        "country_code": null,
+                        "postal_code": "78230",
+                        "latitude": 29.514898,
+                        "longitude": -98.534554
+                    },
+                    "awards": {},
+                    "bdc": {},
+                    "phones": {
+                        "voice": [
+                            {
+                                "number": "2103400096",
+                                "type": "Voice",
+                                "type_code": "V",
+                                "is_primary": "Y"
+                            }
+                        ]
+                    },
+                    "cost": null,
+                    "tiers": {},
+                    "identifiers": [
+                        {
+                            "type_code": "PFI",
+                            "value": "H000888901"
+                        }
+                    ],
+                    "contracts": [
+                        {
+                            "id": 240626695,
+                            "awards": {
+                                "bpr": [
+                                    {
+                                        "type_code": "BPR",
+                                        "name": "Blue Physician Recognition",
+                                        "value": null,
+                                        "awd_authority_code": null,
+                                        "recog_type_code": null,
+                                        "institution": null,
+                                        "start_date": null,
+                                        "end_date": null,
+                                        "link": null
+                                    }
+                                ],
+                                "bcp2|0": [
+                                    {
+                                        "type_code": "BCP2|0",
+                                        "name": "Blue Compare",
+                                        "value": null,
+                                        "awd_authority_code": "HCSC",
+                                        "recog_type_code": null,
+                                        "institution": null,
+                                        "start_date": null,
+                                        "end_date": null,
+                                        "link": null
+                                    }
+                                ]
+                            },
+                            "bdc": {},
+                            "group_affiliations": [],
+                            "identifiers": [
+                                {
+                                    "type_code": "BCA",
+                                    "value": "400|TXB1|00888901||01"
+                                }
+                            ],
+                            "tiers": null,
+                            "is_pcp": null
+                        }
+                    ]
+                }
+            ],
+            "specializations": [
+                {
+                    "id": 240123857,
+                    "professional_id": 1000104102,
+                    "is_certified": "N",
+                    "field_specialty": {
+                        "_id": 240000285,
+                        "name": "Family Practice",
+                        "title": null,
+                        "partner_code": "240000019|A1|008|008",
+                        "field": null
+                    }
+                }
+            ],
+            "reviews": {
+                "overall_rating": 0,
+                "percent_recommended": 0,
+                "total_ratings": 0
+            }
+        },
+        {
+            "disclaimers": [],
+            "id": 1000110055,
+            "name": "Sharon R Fernandez",
+            "gender": "F",
+            "photos": [],
+            "degrees": [
+                "MD"
+            ],
+            "awards": {},
+            "bdc": {},
+            "identifiers": [
+                {
+                    "type_code": "NPI",
+                    "value": "1497732275"
+                },
+                {
+                    "type_code": "PID",
+                    "value": "830702846"
+                }
+            ],
+            "href": "http://qa.hcsc.vitalschoice.mdx.med/api/professionals/1000110055/profile",
+            "locations": [
+                {
+                    "_meta": {
+                        "distance": 2.9258935307937946
+                    },
+                    "id": 240040865,
+                    "name": "",
+                    "address": {
+                        "addr_line1": "8210 Callaghan Rd",
+                        "addr_line2": null,
+                        "city": "San Antonio",
+                        "state_code": "TX",
+                        "sub_national": null,
+                        "county": "Bexar",
+                        "country_code": null,
+                        "postal_code": "78230",
+                        "latitude": 29.513532,
+                        "longitude": -98.548827
+                    },
+                    "awards": {},
+                    "bdc": {},
+                    "phones": {
+                        "voice": [
+                            {
+                                "number": "2102337000",
+                                "type": "Voice",
+                                "type_code": "V",
+                                "is_primary": "Y"
+                            }
+                        ]
+                    },
+                    "cost": null,
+                    "tiers": {},
+                    "identifiers": [
+                        {
+                            "type_code": "PFI",
+                            "value": "H083563G01"
+                        }
+                    ],
+                    "contracts": [
+                        {
+                            "id": 240168909,
+                            "awards": {
+                                "bpr": [
+                                    {
+                                        "type_code": "BPR",
+                                        "name": "Blue Physician Recognition",
+                                        "value": null,
+                                        "awd_authority_code": null,
+                                        "recog_type_code": null,
+                                        "institution": null,
+                                        "start_date": null,
+                                        "end_date": null,
+                                        "link": null
+                                    }
+                                ],
+                                "bcp2|0": [
+                                    {
+                                        "type_code": "BCP2|0",
+                                        "name": "Blue Compare",
+                                        "value": null,
+                                        "awd_authority_code": "HCSC",
+                                        "recog_type_code": null,
+                                        "institution": null,
+                                        "start_date": null,
+                                        "end_date": null,
+                                        "link": null
+                                    }
+                                ]
+                            },
+                            "bdc": {},
+                            "group_affiliations": [
+                                {
+                                    "name": "Communicare Health Centers",
+                                    "description": "MGP",
+                                    "information": "0001",
+                                    "facility_id": null,
+                                    "facility_location_id": null
+                                }
+                            ],
+                            "identifiers": [
+                                {
+                                    "type_code": "BCA",
+                                    "value": "400|TXB1|83563G01||01"
+                                }
+                            ],
+                            "tiers": null,
+                            "is_pcp": null
+                        }
+                    ]
+                }
+            ],
+            "specializations": [
+                {
+                    "id": 240045351,
+                    "professional_id": 1000110055,
+                    "is_certified": "Y",
+                    "field_specialty": {
+                        "_id": 240000285,
+                        "name": "Family Practice",
+                        "title": null,
+                        "partner_code": "240000019|A1|008|008",
+                        "field": null
+                    }
+                }
+            ],
+            "reviews": {
+                "overall_rating": 0,
+                "percent_recommended": 0,
+                "total_ratings": 0
+            }
+        },
+        {
+            "disclaimers": [],
+            "id": 1000125964,
+            "name": "Michael P Zeitlin",
+            "gender": "M",
+            "photos": [],
+            "degrees": [
+                "MD"
+            ],
+            "awards": {},
+            "bdc": {},
+            "identifiers": [
+                {
+                    "type_code": "NPI",
+                    "value": "1295745289"
+                },
+                {
+                    "type_code": "PID",
+                    "value": "024032045"
+                }
+            ],
+            "href": "http://qa.hcsc.vitalschoice.mdx.med/api/professionals/1000125964/profile",
+            "locations": [
+                {
+                    "_meta": {
+                        "distance": 3.075930524512006
+                    },
+                    "id": 240155441,
+                    "name": "",
+                    "address": {
+                        "addr_line1": "5555 Fredericksburg Rd",
+                        "addr_line2": null,
+                        "city": "San Antonio",
+                        "state_code": "TX",
+                        "sub_national": null,
+                        "county": "Bexar",
+                        "country_code": null,
+                        "postal_code": "78229",
+                        "latitude": 29.508776,
+                        "longitude": -98.565717
+                    },
+                    "awards": {},
+                    "bdc": {},
+                    "phones": {
+                        "voice": [
+                            {
+                                "number": "2106160828",
+                                "type": "Voice",
+                                "type_code": "V",
+                                "is_primary": "Y"
+                            }
+                        ]
+                    },
+                    "cost": null,
+                    "tiers": {},
+                    "identifiers": [
+                        {
+                            "type_code": "PFI",
+                            "value": "H08G987001"
+                        }
+                    ],
+                    "contracts": [
+                        {
+                            "id": 240615578,
+                            "awards": {
+                                "bcp6|0": [
+                                    {
+                                        "type_code": "BCP6|0",
+                                        "name": "Blue Compare",
+                                        "value": null,
+                                        "awd_authority_code": "HCSC",
+                                        "recog_type_code": null,
+                                        "institution": null,
+                                        "start_date": null,
+                                        "end_date": null,
+                                        "link": null
+                                    }
+                                ]
+                            },
+                            "bdc": {},
+                            "group_affiliations": [
+                                {
+                                    "name": "Alamo Area Family & Geria- Tric Associates Pa",
+                                    "description": "MGP",
+                                    "information": "5467",
+                                    "facility_id": null,
+                                    "facility_location_id": null
+                                }
+                            ],
+                            "identifiers": [],
+                            "tiers": null,
+                            "is_pcp": null
+                        }
+                    ]
+                },
+                {
+                    "_meta": {
+                        "distance": 10.37718392395145
+                    },
+                    "id": 240033567,
+                    "name": "",
+                    "address": {
+                        "addr_line1": "19016 Stone Oak Pkwy",
+                        "addr_line2": null,
+                        "city": "San Antonio",
+                        "state_code": "TX",
+                        "sub_national": null,
+                        "county": "Bexar",
+                        "country_code": null,
+                        "postal_code": "78258",
+                        "latitude": 29.61841,
+                        "longitude": -98.493578
+                    },
+                    "awards": {},
+                    "bdc": {},
+                    "phones": {
+                        "voice": [
+                            {
+                                "number": "2105455111",
+                                "type": "Voice",
+                                "type_code": "V",
+                                "is_primary": "Y"
+                            }
+                        ]
+                    },
+                    "cost": null,
+                    "tiers": {},
+                    "identifiers": [
+                        {
+                            "type_code": "PFI",
+                            "value": "H08CS08701"
+                        }
+                    ],
+                    "contracts": [
+                        {
+                            "id": 240138642,
+                            "awards": {
+                                "bcp6|0": [
+                                    {
+                                        "type_code": "BCP6|0",
+                                        "name": "Blue Compare",
+                                        "value": null,
+                                        "awd_authority_code": "HCSC",
+                                        "recog_type_code": null,
+                                        "institution": null,
+                                        "start_date": null,
+                                        "end_date": null,
+                                        "link": null
+                                    }
+                                ]
+                            },
+                            "bdc": {},
+                            "group_affiliations": [
+                                {
+                                    "name": "San Antonio Osteo Relief Ctr Pa",
+                                    "description": "MGP",
+                                    "information": "0766",
+                                    "facility_id": null,
+                                    "facility_location_id": null
+                                }
+                            ],
+                            "identifiers": [
+                                {
+                                    "type_code": "BCA",
+                                    "value": "400|TXB1|8CS08701||01"
+                                }
+                            ],
+                            "tiers": null,
+                            "is_pcp": null
+                        }
+                    ]
+                }
+            ],
+            "specializations": [
+                {
+                    "id": 240037237,
+                    "professional_id": 1000125964,
+                    "is_certified": "N",
+                    "field_specialty": {
+                        "_id": 240000285,
+                        "name": "Family Practice",
+                        "title": null,
+                        "partner_code": "240000019|A1|008|008",
+                        "field": null
+                    }
+                }
+            ],
+            "reviews": {
+                "overall_rating": 0,
+                "percent_recommended": 0,
+                "total_ratings": 0
+            }
+        },
+        {
+            "disclaimers": [],
+            "id": 1000069405,
+            "name": "Juanito Q Lomboy",
+            "gender": "M",
+            "photos": [],
+            "degrees": [
+                "MD"
+            ],
+            "awards": {},
+            "bdc": {},
+            "identifiers": [
+                {
+                    "type_code": "NPI",
+                    "value": "1114100179"
+                },
+                {
+                    "type_code": "PID",
+                    "value": "852733189"
+                }
+            ],
+            "href": "http://qa.hcsc.vitalschoice.mdx.med/api/professionals/1000069405/profile",
+            "locations": [
+                {
+                    "_meta": {
+                        "distance": 3.1688840566931877
+                    },
+                    "id": 240071026,
+                    "name": "",
+                    "address": {
+                        "addr_line1": "7726 Louis Pasteur Dr",
+                        "addr_line2": null,
+                        "city": "San Antonio",
+                        "state_code": "TX",
+                        "sub_national": null,
+                        "county": "Bexar",
+                        "country_code": null,
+                        "postal_code": "78229",
+                        "latitude": 29.508627,
+                        "longitude": -98.568491
+                    },
+                    "awards": {},
+                    "bdc": {},
+                    "phones": {
+                        "voice": [
+                            {
+                                "number": "2103588820",
+                                "type": "Voice",
+                                "type_code": "V",
+                                "is_primary": "Y"
+                            }
+                        ]
+                    },
+                    "cost": null,
+                    "tiers": {},
+                    "identifiers": [
+                        {
+                            "type_code": "PFI",
+                            "value": "H08CN54601"
+                        }
+                    ],
+                    "contracts": [
+                        {
+                            "id": 240294334,
+                            "awards": {
+                                "bpr": [
+                                    {
+                                        "type_code": "BPR",
+                                        "name": "Blue Physician Recognition",
+                                        "value": null,
+                                        "awd_authority_code": null,
+                                        "recog_type_code": null,
+                                        "institution": null,
+                                        "start_date": null,
+                                        "end_date": null,
+                                        "link": null
+                                    }
+                                ],
+                                "ehr": [
+                                    {
+                                        "type_code": "EHR",
+                                        "name": "Medicare and Medicaid Electronic Health Records (EHR) Incentive Programs",
+                                        "value": null,
+                                        "awd_authority_code": "BCA",
+                                        "recog_type_code": "00",
+                                        "institution": null,
+                                        "start_date": null,
+                                        "end_date": null,
+                                        "link": null
+                                    }
+                                ],
+                                "bcp2|0": [
+                                    {
+                                        "type_code": "BCP2|0",
+                                        "name": "Blue Compare",
+                                        "value": null,
+                                        "awd_authority_code": "HCSC",
+                                        "recog_type_code": null,
+                                        "institution": null,
+                                        "start_date": null,
+                                        "end_date": null,
+                                        "link": null
+                                    }
+                                ],
+                                "abfm": [
+                                    {
+                                        "type_code": "ABFM",
+                                        "name": "American Board of Family Medicine",
+                                        "value": null,
+                                        "awd_authority_code": "BCA",
+                                        "recog_type_code": "00",
+                                        "institution": null,
+                                        "start_date": "2010-07-24",
+                                        "end_date": "2017-12-31",
+                                        "link": null
+                                    }
+                                ]
+                            },
+                            "bdc": {},
+                            "group_affiliations": [
+                                {
+                                    "name": "Community Medicine Assoc",
+                                    "description": "MGP",
+                                    "information": "0632",
+                                    "facility_id": null,
+                                    "facility_location_id": null
+                                }
+                            ],
+                            "identifiers": [
+                                {
+                                    "type_code": "BCA",
+                                    "value": "400|TXB1|8CN54601||01"
+                                }
+                            ],
+                            "tiers": null,
+                            "is_pcp": null
+                        }
+                    ]
+                }
+            ],
+            "specializations": [
+                {
+                    "id": 240078706,
+                    "professional_id": 1000069405,
+                    "is_certified": "Y",
+                    "field_specialty": {
+                        "_id": 240000285,
+                        "name": "Family Practice",
+                        "title": null,
+                        "partner_code": "240000019|A1|008|008",
+                        "field": null
+                    }
+                }
+            ],
+            "reviews": {
+                "overall_rating": 0,
+                "percent_recommended": 0,
+                "total_ratings": 0
+            }
+        }
+    ]
+}
